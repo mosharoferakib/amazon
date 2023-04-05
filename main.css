@@ -1,0 +1,52 @@
+.copyright{
+    text-align: center;
+}
+
+.amazon{
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.box{
+    border: 1px solid grey;
+    height: 270px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.submit{
+    width:308px;
+    border-color: orange;
+    background-color: orange;
+
+}
+    
+
+.box1{
+    margin-left: auto;
+    margin-right: auto;
+    width:300px;
+}
+.New{
+    text-align: center;
+
+}
+.body1{
+    width:300px;
+}
+.body2{
+    width:300px;
+}
+.register{
+    text-align: center;
+    padding-bottom: 20px;
+    color: black;
+    
+}
+.links{
+    text-align: center;
+}
